@@ -1,9 +1,9 @@
 # Image ATM (Automated Tagging Machine)
 
-In this fork, I have tried to enhance the pipeline feature like easy evaluation and prediction on model and option to freeze or unfreeze a particular number of the layer while doing transfer learning, as this can eventually burgeon model accuracy in many cases.
+#### In this fork, I have tried to enhance the pipeline feature like easy evaluation and prediction on model and option to freeze or unfreeze a particular number of the layer while doing transfer learning, as this can eventually burgeon model accuracy in many cases.
 
-you can read mre about it here,
-https://www.tensorflow.org/tutorials/images/transfer_learning#un-freeze_the_top_layers_of_the_model
+#### you can read mre about it here,
+#### https://www.tensorflow.org/tutorials/images/transfer_learning#un-freeze_the_top_layers_of_the_model
 
 [![Build Status](https://travis-ci.org/idealo/imageatm.svg?branch=master)](https://travis-ci.org/idealo/imageatm)
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](https://github.com/idealo/imageatm/blob/master/LICENSE)
